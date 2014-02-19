@@ -140,4 +140,4 @@ candidates for the next stable version. **All changes should be made on the deve
 
 ## License
 
-Event-Space-JS is released under the MIT license.
+Copyright (C) 2012 Abdurrahman NAMLI. It is distributed under the MIT license - see the accompanying LICENSE file for more details.
